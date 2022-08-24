@@ -6,7 +6,6 @@
     "port": 21,
     "secure": false,
     "protocol": "ftp",
-    "uploadOnSave": true,
     "passive": false,
     "debug": false,
     "privateKeyPath": null,
@@ -22,6 +21,7 @@
         "extensionsToInclude": [
             ""
         ],
+        "uploadOnSave": true,
         "path": ""
     }
 }
